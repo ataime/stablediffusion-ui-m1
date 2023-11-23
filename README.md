@@ -15,3 +15,11 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui
 如果在 m1-mac 上执行 "./webui.sh" 报错，需要删除环境变量 "SSLKEYLOGFILE=/Users/yuanjun/sslkeylogfile/keylogfile.log"
 
 ![Alt text](image.png)
+
+## 启动
+
+```
+执行 "./webui.sh"  即可开启服务
+```
+
+![Alt text](image-1.png)
